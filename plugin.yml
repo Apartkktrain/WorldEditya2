@@ -10,16 +10,16 @@ website: https://github.com/deceitya/WorldEditya2
 permissions:
   worldeditya2.command.pos1:
     description: Allows the admin to run the pos1 command
-    default: op
+    default: true
   worldeditya2.command.pos2:
     description: Allows the admin to run the pos2 command
-    default: op
+    default: true
   worldeditya2.command.set:
     description: Allows the admin to run the set command
-    default: op
+    default: true
   worldeditya2.command.undo:
     description: Allows the admin to run the undo command
-    default: op
+    default: true
   worldeditya2.command.replace:
     description: Allows the admin to run the replace command
-    default: op
+    default: true
