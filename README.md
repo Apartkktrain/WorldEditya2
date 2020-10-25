@@ -3,8 +3,8 @@
 大方は非同期で処理します。  
 //undoで使用する操作履歴をキャッシュファイルに保存するのでメモリをそんなに食いません。  
 **※このPluginは一般playerも使えるようになっています。導入には十分に注意してください（土地保護を貫通してしまいます...建築鯖必須??)**  
-[ダウンロード](https://poggit.pmmp.io/ci/deceitya/WorldEditya2/WorldEditya2)
-
+[ダウンロード](https://poggit.pmmp.io/ci/deceitya/WorldEditya2/WorldEditya2)  
+**※通常使用の場合は上のツキミヤ様が製作されたpluginを利用してください**  
 ## コマンド
 | コマンド | 説明 | 使い方 |
 | --- | --- | --- |
